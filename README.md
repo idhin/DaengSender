@@ -1,6 +1,4 @@
-# EZ Sender - Rich and Free Email Sender
-
-![](https://img.shields.io/badge/version-v1.3-green.svg) ![](https://img.shields.io/github/stars/mukhlisakbr/ez-sender.svg)  ![](https://img.shields.io/github/forks/mukhlisakbr/ez-sender.svg)
+# Daeng Sender
 
 This tool allows you to send mass / bulk emails with lots of customization. Intended for those who understand the use and risks. In the future, this project will be continuously developed in open source.
 
@@ -23,12 +21,12 @@ This tool allows you to send mass / bulk emails with lots of customization. Inte
 
 ### Run on Windows
 
-- Download file "https://github.com/mukhlisakbr/ez-sender/archive/master.zip"
+- Download file
 - Extract zip and open "run.bat"
 
 ### Run on Linux
 
-- Download file "git clone https://github.com/mukhlisakbr/ez-sender.git"
+- Download file 
 - Enter directory "cd ez-sender"
 - Execute this command "php run.php"
 
@@ -44,9 +42,6 @@ This tool allows you to send mass / bulk emails with lots of customization. Inte
 
 - Coming soon :)
 
-### Screenshot
-
-![](screenshot/ez-sender%20v1.3.png)
 
 ### Made with
 
@@ -56,4 +51,3 @@ This tool allows you to send mass / bulk emails with lots of customization. Inte
 ### Note
 
 - Please help me by contributing star, fork, and follow my github, and not recode it by removing copyright
-- For those who have feature suggestions or bug reports can send to https://www.facebook.com/mukhlisakbr
